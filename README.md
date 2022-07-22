@@ -1,5 +1,5 @@
 
-# Streamtrend🔥🎥![GitHub watchers] ![GitHub Repo stars](https://img.shields.io/github/stars/Aman12305/OTT-platform?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=Aman12305/OTT-platform")
+# Streamtrend🔥🎥![GitHub watchers] ![GitHub Repo stars](https://img.shields.io/github/stars/seema973/OTT-platform?style=social) ![](https://visitor-badge.glitch.me/badge?page_id=seema973/OTT-platform")
 
 
 **[Streamtrend](https://streamtrend.netlify.app/)** is a trailers grabbing website from different ott platform using TMDB API And Youtube API
